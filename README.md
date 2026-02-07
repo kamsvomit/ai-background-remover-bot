@@ -12,9 +12,9 @@ HD Document Output: Hasil akhir dikirim dalam format dokumen (.png transparan) a
 
 🛠️ Tech Stack
 
-Proyek ini dikembangkan menggunakan Python dengan pendekatan yang sederhana namun efektif [cite: 2026-01-25]:
+Proyek ini dikembangkan menggunakan Python dengan pendekatan yang sederhana namun efektif.
 
-Python (pyTelegramBotAPI): Digunakan sebagai library utama untuk mengelola interaksi bot [cite: 2026-01-29].
+Python (pyTelegramBotAPI): Digunakan sebagai library utama untuk mengelola interaksi bot.
 
 Gradio Client: Digunakan untuk menghubungkan bot dengan engine AI yang ada di Hugging Face.
 
